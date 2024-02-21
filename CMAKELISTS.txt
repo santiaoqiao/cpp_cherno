@@ -5,3 +5,7 @@ set(EXECUTABLE_OUTPUT_PATH ${HOME}/bin)
 
 
 add_subdirectory(020_write_a_class)
+add_subdirectory(021_static)
+add_subdirectory(022_static_in_class)
+add_subdirectory(023_local_static)
+add_subdirectory(024_enum)
