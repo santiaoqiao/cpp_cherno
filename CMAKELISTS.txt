@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.25)
+set(CMAKE_CXX_STANDARD 11)
+set(HOME ${CMAKE_CURRENT_SOURCE_DIR})
+set(EXECUTABLE_OUTPUT_PATH ${HOME}/bin)
+
+
+add_subdirectory(020_write_a_class)
